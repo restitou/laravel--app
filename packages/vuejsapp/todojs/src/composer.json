@@ -1,0 +1,26 @@
+{
+    "name": "vuejsapp/todojs",
+    "description": "You can create the to-do-list of your task.",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravelcollective/html": "^6.0@dev"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vuejsapp\\Todojs\\VuejsapplistServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Vuejsapp\\Todojs\\": "src/"
+        }
+    }
+}
