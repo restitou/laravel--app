@@ -37,7 +37,7 @@ Empty List | With Items
 1. Congratulations if you made it!
 
 Need helps? Reach me out 
->Email: kevinmulugu@gmail.com
+>Email: redastitou57@gmail.com
 >
 >Twitter: [@RIDA _](https://twitter.com/kevvoh_)
 >
