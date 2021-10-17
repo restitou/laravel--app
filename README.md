@@ -26,9 +26,9 @@ Empty List | With Items
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=dbname
-    DB_USERNAME=myuser
-    DB_PASSWORD=mypass
+    DB_DATABASE=vuejsdb
+    DB_USERNAME=root
+    DB_PASSWORD= 
     ```
 1. Migrate your migrations: `php artisan migrate`
 1. Generate application encryption key: `php artisan key:generate`
@@ -39,8 +39,8 @@ Empty List | With Items
 Need helps? Reach me out 
 >Email: kevinmulugu@gmail.com
 >
->Twitter: [@kevvoh_](https://twitter.com/kevvoh_)
+>Twitter: [@RIDA _](https://twitter.com/kevvoh_)
 >
->Linkedin: [Kevin Mulugu](https://www.linkedin.com/in/kevinmulugu/)
+>Linkedin: [RIDA STITOU](https://www.linkedin.com/in/kevinmulugu/)
 
 All the best :beer:
